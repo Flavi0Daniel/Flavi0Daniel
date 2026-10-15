@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002b4e,50:005a9c,100:00d2ff&height=200&section=header&text=Fl%C3%A1vio%20Daniel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Luanda%2C%20Angola%20%C2%B7%20Software%20Developer&descAlignY=62&descSize=17&descColor=a0c4ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:00d2ff&height=200&section=header&text=Fl%C3%A1vio%20Daniel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Luanda%2C%20Angola%20%C2%B7%20Software%20Developer&descAlignY=62&descSize=17&descColor=00d2ff"/>
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ I'm **Flávio Daniel**, a Software Developer based in **Luanda, Angola**. I buil
 
 **Backend & APIs**
 
-[![Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=express,nodejs,dotnet&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
@@ -56,18 +56,18 @@ I'm **Flávio Daniel**, a Software Developer based in **Luanda, Angola**. I buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Flavi0Daniel&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=a0c4ff"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flavi0Daniel&layout=compact&langs_count=7&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a0c4ff"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Flavi0Daniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=a8b2d8"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flavi0Daniel&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a8b2d8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Flavi0Daniel&theme=react-dark&hide_border=true&background=0d1117&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Flavi0Daniel&theme=dark&hide_border=true&background=0d1117&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00d2ff&dates=a8b2d8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Flavi0Daniel&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Flavi0Daniel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -78,9 +78,9 @@ I'm **Flávio Daniel**, a Software Developer based in **Luanda, Angola**. I buil
 
 <div align="center">
   <a href="mailto:flavioelia9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00D2FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-daniel" target="_blank">
+  <a href="https://www.linkedin.com/in/FlávioDaniel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/244945190431" target="_blank">
@@ -95,5 +95,5 @@ I'm **Flávio Daniel**, a Software Developer based in **Luanda, Angola**. I buil
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:005a9c,100:002b4e&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0f2027,100:0d1117&height=120&section=footer"/>
 </div>
